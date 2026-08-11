@@ -6,6 +6,11 @@ The implementation is available in the public GitHub repository configured in `.
 It is a temporary HOL-owned location pending Seltz confirmation of the final owner, repository name, and
 transfer plan. No marketplace publication has been performed.
 
+## History and transfer
+
+This repository's history intentionally starts at the plugin snapshot. Transfer it to the configured
+`hashgraph-online/seltz-codex-plugin` destination after review.
+
 ## What is ready
 
 - Codex plugin manifest at `.codex-plugin/plugin.json`.
