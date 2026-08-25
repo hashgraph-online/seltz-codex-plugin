@@ -1,6 +1,7 @@
 ---
 name: seltz
 description: Use Seltz's official MCP search tool for current, source-backed web research in Codex.
+license: Apache-2.0
 ---
 
 # Seltz web research
