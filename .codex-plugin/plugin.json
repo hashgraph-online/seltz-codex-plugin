@@ -1,6 +1,7 @@
 {
   "name": "seltz",
   "version": "0.1.0",
+  "license": "Apache-2.0",
   "description": "Search the live web for current, source-backed context through Seltz's official MCP server.",
   "author": {
     "name": "Seltz",
